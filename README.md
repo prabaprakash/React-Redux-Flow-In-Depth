@@ -1,3 +1,7 @@
+# Architecture
+```
+Observer Pattern + State Pattern
+```
 # Online Code Sandbox 
 https://codesandbox.io/s/lxxj11qqym
 
